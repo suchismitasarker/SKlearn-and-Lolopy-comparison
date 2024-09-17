@@ -1,3 +1,8 @@
+This repository is the comparison of SKlearn andd Lolopy libraries. 
+
+
+
+
 # SKlearn-and-Lolopy-comparison
 SKlearn and Lolopy comparison
 lolopy==1.1.1
